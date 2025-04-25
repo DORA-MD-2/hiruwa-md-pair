@@ -1,8 +1,8 @@
 module.exports = {
-    PREFIX: "LUCIFER-MD~",
+    PREFIX: "ISHAN-MD~",
     CONNECTED_MESSAGE: `
 ┏━━━━━━━━━━━━━━
-┃LUCIFER MD SESSION IS 
+┃ISHAN MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
